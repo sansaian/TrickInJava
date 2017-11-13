@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * Пример ковариации в массиве
  */
-public class Main {
+class MainA {
     public static void main(String[] args) {
         Cat [] cats = new Cat[2];
         Animal[] animals;
